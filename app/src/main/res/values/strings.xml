@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">EZResult</string>
+
+    <string name="welcome">Welcome to Ez Result
+        \n Here is where your troubles go away</string>
+
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+    <string name="title_activity_py_calculator">PyCalculatorActivity</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_shapes_info">ShapesInfoActivity</string>
+    <string name="tab_text_1">Cone</string>
+    <string name="tab_text_2">Rectangular Prism</string>
+    <string name="tab_text_3">Pyramid</string>
+    <string name="section_formcat">Hello World from section: %1$d</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+</resources>
