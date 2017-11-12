@@ -1,5 +1,7 @@
 package com.example.hunghoang.ezresult;
 
+//testing my push
+
 import android.content.Intent;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
